@@ -1,0 +1,96 @@
+{
+    "spell.scale_bless": {
+        "category": "spells",
+        "sounds": [ "ebwizardry:buff" ]
+    },
+    "spell.thief_bless": {
+        "category": "spells",
+        "sounds": [ "ebwizardry:buff" ]
+    },
+    "spell.tribal_bless": {
+        "category": "spells",
+        "sounds": [ "ebwizardry:buff" ]
+    },
+    "spell.vampirism": {
+        "category": "spells",
+        "sounds": [ "ebwizardry:buff" ]
+    },
+    "spell.super_jump": {
+        "category": "spells",
+        "sounds": [ "ebwizardry:buff" ]
+    },
+    "spell.time_manipulator.day": {
+        "category": "spells",
+        "sounds": [ "ebwizardry:effect1" ]
+    },
+    "spell.time_manipulator.night": {
+        "category": "spells",
+        "sounds": [ "ebwizardry:effect2" ]
+    },
+    "spell.chargable_strike.start": {
+        "category": "spells",
+        "sounds": [ ]
+    },
+    "spell.chargable_strike.loop": {
+        "category": "spells",
+        "sounds": [ "ebwizardry:lightning_ray_loop" ]
+    },
+    "spell.chargable_strike.end": {
+        "category": "spells",
+        "sounds": [ "ebwizardry:lightning_ray_start" ]
+    },
+    "spell.magic_shield.start": {
+        "category": "spells",
+        "sounds": [ ]
+    },
+    "spell.magic_shield.loop": {
+        "category": "spells",
+        "sounds": [ "ebwizardry:small_aura_loop" ]
+    },
+    "spell.magic_shield.end": {
+        "category": "spells",
+        "sounds": [ "ebwizardry:conjure" ]
+    },
+
+    "spell.advanced_return": {
+        "category": "spells",
+        "sounds": [ "ebwizardry:buff" ]
+    },
+    "spell.pacifism": {
+        "category": "spells",
+        "sounds": [ "ebwizardry:buff" ]
+    },
+    "spell.photosynthesis": {
+        "category": "spells",
+        "sounds": [ "ebwizardry:buff" ]
+    },
+    "spell.time_travel": {
+        "category": "spells",
+        "sounds": [ "ebwizardry:buff" ]
+    },
+
+    "spell.hunters_revenge": {
+        "category": "spells",
+        "sounds": [ "ebwizardry:buff" ]
+    },
+    "spell.magical_offence": {
+        "category": "spells",
+        "sounds": [ "ebwizardry:buff" ]
+    },
+    "spell.return": {
+        "category": "spells",
+        "sounds": [ "ebwizardry:buff" ]
+    },
+    "spell.solid_core": {
+        "category": "spells",
+        "sounds": [ "ebwizardry:buff" ]
+    },
+    "spell.surface_teleport": {
+        "category": "spells",
+        "sounds": [ "ebwizardry:buff" ]
+    },
+    "spell.armor_piercing_missile": {
+        "category": "spells",
+        "sounds": [ "ebwizardry:buff" ]
+    }
+}
