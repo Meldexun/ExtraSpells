@@ -1,0 +1,54 @@
+spell.extra_spells:time_manipulator=Манипулятор времени
+spell.extra_spells:time_manipulator.desc=Управлять временем.
+spell.extra_spells:time_manipulator.night=Грядёт тьма...
+spell.extra_spells:time_manipulator.day=Восходит солнце...
+spell.extra_spells:vampirism=Вампиризм
+spell.extra_spells:vampirism.desc=Я жажду крови.
+spell.extra_spells:chargable_strike=Заряжаемый удар
+spell.extra_spells:chargable_strike.desc=Чем дольше заряжаете, тем сильнее Ваш удар.
+spell.extra_spells:super_jump=Усиленный прыжок
+spell.extra_spells:super_jump.desc=Давайте полетаем.
+
+spell.extra_spells:tribal_bless=Племенное благословение
+spell.extra_spells:tribal_bless.desc=Чародей благословлён мощью древнего Воителя племени.
+spell.extra_spells:scale_bless=Чешуйчатое благословение
+spell.extra_spells:scale_bless.desc=Чародей благословлён силой героического Истребителя драконов.
+spell.extra_spells:thief_bless=Благословение вора
+spell.extra_spells:thief_bless.desc=Чародей благословлён потенциалом легендарного Вора.
+
+spell.extra_spells:advanced_return=Улучшенный возврат
+spell.extra_spells:advanced_return.desc=Телепортирует мага обратно к его кровати.
+spell.extra_spells:armor_piercing_missile=Бронебойный снаряд
+spell.extra_spells:armor_piercing_missile.desc=Выстреливает сокрушительным снарядом, что снижает броню на 25%%.
+spell.extra_spells:surface_teleport=Телепорт на поверхность
+spell.extra_spells:surface_teleport.desc=Избегайте душераздирающей тьмы пещер.
+spell.extra_spells:magical_offence=Магическое нападение
+spell.extra_spells:magical_offence.desc=Бейте им ещё сильнее.
+spell.extra_spells:hunters_revenge=Воздаяние охотника
+spell.extra_spells:hunters_revenge.desc=Стреляйте своими стрелами с помощью огромной энергией.
+spell.extra_spells:solid_core=Твёрдая основа
+spell.extra_spells:solid_core.desc=Твёрдый, как скала.
+spell.extra_spells:magic_shield=Магический щит
+spell.extra_spells:magic_shield.desc=Защищает своего колдуна.
+
+spell.extra_spells:return=Возврат
+spell.extra_spells:return.desc=Телепортирует волшебника к его кровати.
+spell.extra_spells:time_travel=Путешествие во времени
+spell.extra_spells:time_travel.desc=Путешествие во времени. Что ещё сказать?
+spell.extra_spells:pacifism=Пацифизм
+spell.extra_spells:pacifism.desc=Замедлить каждого.
+spell.extra_spells:photosynthesis=Фотосинтез
+spell.extra_spells:photosynthesis.desc=Энергия природы!
+
+potion.extra_spells:vampirism=Вампиризм
+potion.extra_spells:vampirism.desc=Кровопийство.
+potion.extra_spells:decaying=Гниение
+potion.extra_spells:decaying.desc=Разложение.
+potion.extra_spells:diseased=Больной
+potion.extra_spells:diseased.desc=Поражённый болезнью.
+potion.extra_spells:evading=Уклонение
+potion.extra_spells:evading.desc=Избегать.
+potion.extra_spells:leeching=Кровосос
+potion.extra_spells:leeching.desc=Впиваться.
+potion.extra_spells:stasis=Стазис
+potion.extra_spells:stasis.desc=Застой.
